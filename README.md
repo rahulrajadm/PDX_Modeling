@@ -8,7 +8,7 @@ The repository is organized as follows:
 
 - `calibration/`: Contains the Python code implementing the mathematical model. The model is based on the exponential function and factors in tumor decay due to treatment. Contains scripts to analyze the data obtained, initial calibration, 1-week treatment calibration, full treatment calibration, biomarkers calibration and figure generation. 
 
-- `data/`: Contains sample in-silico data files to be used for calibration and analysis example. True data was obtained from eight PDX models with tumors, each one including control (n = X) and 4-week treatment groups (n = X). This directory includes all relevant data. 
+- `data/`: Contains sample in-silico data files to be used for calibration and analysis example. True data was obtained from eight PDX models with tumors, each one including control (n = X) and 4-week treatment groups (n = X). This directory will include all relevant data upon publication in Spring 2026. 
 
 ## Calibration Framework
 
